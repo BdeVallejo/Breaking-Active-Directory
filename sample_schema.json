@@ -1,0 +1,18 @@
+{
+    "groups": [
+        {
+            "name": "sample_group"
+        }
+    ],
+
+    "users": [
+        {
+            "first_name": "John",
+            "last_name": "Doe",
+            "password": "JohnDoe123",
+            "groups": [
+                "sample_groups"
+            ]
+        }
+    ]
+}
